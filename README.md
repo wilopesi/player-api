@@ -6,7 +6,7 @@ Microservice of the Ludus football application project, which aims to provide da
 
 ![Diagrama1](https://user-images.githubusercontent.com/70587854/236971964-5638e7d1-8add-4e19-820a-139370dd7b9f.png)
 
-# achitecture
+# architecture
 Language: C# .NET CORE Framework
 <br>
 Database: SQL Server (AWS)
