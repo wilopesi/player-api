@@ -1,5 +1,5 @@
 # player-api
-API created for registration of football players for a championship system.
+API created for registration of football players for a championship system.<br>
 Microservice of the Ludus football application project, which aims to provide data resources of existing players in a championship.
 
 # diagram
