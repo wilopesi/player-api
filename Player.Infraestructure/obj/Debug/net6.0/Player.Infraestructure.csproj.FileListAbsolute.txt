@@ -1,0 +1,14 @@
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\bin\Debug\net6.0\Player.Infraestructure.deps.json
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\bin\Debug\net6.0\Player.Infraestructure.runtimeconfig.json
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\bin\Debug\net6.0\Player.Infraestructure.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\bin\Debug\net6.0\Player.Infraestructure.pdb
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.AssemblyInfo.cs
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\refint\Player.Infraestructure.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.pdb
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\Player.Infraestructure.genruntimeconfig.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Infraestructure\obj\Debug\net6.0\ref\Player.Infraestructure.dll

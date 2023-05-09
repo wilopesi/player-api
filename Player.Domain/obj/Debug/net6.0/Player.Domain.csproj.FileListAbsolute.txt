@@ -1,0 +1,17 @@
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\bin\Debug\net6.0\Player.Domain.deps.json
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\bin\Debug\net6.0\Player.Domain.runtimeconfig.json
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\bin\Debug\net6.0\Player.Domain.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\bin\Debug\net6.0\Player.Domain.pdb
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\bin\Debug\net6.0\Player.Infraestructure.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\bin\Debug\net6.0\Player.Infraestructure.pdb
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.AssemblyInfo.cs
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.csproj.CopyComplete
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\refint\Player.Domain.dll
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.pdb
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\Player.Domain.genruntimeconfig.cache
+C:\Users\willi\source\repos\ludus_service_players\Player.Domain\obj\Debug\net6.0\ref\Player.Domain.dll
